@@ -1,0 +1,75 @@
+<<<<<<< HEAD
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\controllers\ProfileController.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\models\Job.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\models\PostLike.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\service\AuthService.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\controllers\DiscoveryController.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\security\GlobalExceptionHandler.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\service\JobService.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\security\UserDetailsServiceImpl.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\service\ProfileService.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\BackendApplication.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\models\Event.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\service\PostService.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\repositories\ChatMessageRepository.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\repositories\PostLikeRepository.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\service\EventService.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\controllers\JobController.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\repositories\PostRepository.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\repositories\CommentRepository.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\models\ChatMessage.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\controllers\AuthController.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\dto\ErrorResponse.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\security\WebSecurityConfig.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\dto\PostDto.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\dto\ProfileDto.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\repositories\EventRepository.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\controllers\PostController.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\security\AuthTokenFilter.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\models\Comment.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\controllers\EventController.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\repositories\UserRepository.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\models\Post.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\repositories\JobRepository.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\dto\AuthDto.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\models\User.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\security\JwtUtils.java
+C:\Users\nitro\Downloads\Alumniappclean\Alumniappclean\backend\src\main\java\com\campusconnect\controllers\ChatController.java
+=======
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\service\AuthService.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\controllers\JobController.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\models\Comment.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\models\PostLike.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\dto\AuthDto.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\models\ChatMessage.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\service\EventService.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\models\Job.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\controllers\AuthController.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\dto\ErrorResponse.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\service\PostService.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\controllers\DiscoveryController.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\controllers\PostController.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\models\Event.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\controllers\ProfileController.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\models\Post.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\repositories\JobRepository.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\service\ProfileService.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\dto\PostDto.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\BackendApplication.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\dto\ProfileDto.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\controllers\EventController.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\repositories\UserRepository.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\repositories\EventRepository.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\repositories\PostLikeRepository.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\security\AuthTokenFilter.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\controllers\ChatController.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\repositories\PostRepository.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\security\UserDetailsServiceImpl.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\security\GlobalExceptionHandler.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\security\JwtUtils.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\repositories\CommentRepository.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\security\WebSecurityConfig.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\models\User.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\service\JobService.java
+C:\Users\nitro\Documents\Alumni App\backend\src\main\java\com\campusconnect\repositories\ChatMessageRepository.java
+>>>>>>> fa17c6d6c4b262153409c160293464dfc7131fe1
