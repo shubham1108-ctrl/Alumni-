@@ -1,2 +1,2 @@
 #!/bin/sh
-./mvnw.cmd "$@"
+exec java -jar .mvn/wrapper/maven-wrapper.jar "$@"
