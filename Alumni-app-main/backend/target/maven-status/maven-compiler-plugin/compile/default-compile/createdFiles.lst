@@ -5,6 +5,7 @@ com\campusconnect\service\JobService.class
 com\campusconnect\dto\AuthDto$SignupRequest.class
 com\campusconnect\dto\ErrorResponse.class
 com\campusconnect\security\AuthTokenFilter.class
+com\campusconnect\config\SwaggerConfig.class
 com\campusconnect\dto\PostDto$CreatePostRequest.class
 com\campusconnect\controllers\PostController.class
 com\campusconnect\dto\AuthDto.class
