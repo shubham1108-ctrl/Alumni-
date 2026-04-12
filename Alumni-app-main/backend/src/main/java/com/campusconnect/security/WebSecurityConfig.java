@@ -55,22 +55,9 @@ public class WebSecurityConfig {
                         session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
 
                 .authorizeHttpRequests(auth -> auth
-
-                        // ✅ ROOT allow (IMPORTANT)
-                        .requestMatchers("/").permitAll()
-
-                        // ✅ Swagger allow
-                        .requestMatchers(
-                                "/swagger-ui/**",
-                                "/v3/api-docs/**"
-                        ).permitAll()
-
-                        // ✅ Auth APIs allow
-                        .requestMatchers("/api/auth/**").permitAll()
-
-                        // बाकी secure
-                        .anyRequest().authenticated()
+                        .anyRequest().permitAll()
                 );
+        
 
         http.cors(cors -> cors.configurationSource(corsConfigurationSource()));
 
