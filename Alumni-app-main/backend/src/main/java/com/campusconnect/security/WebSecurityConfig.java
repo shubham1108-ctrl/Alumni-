@@ -56,6 +56,9 @@ public class WebSecurityConfig {
 
                 .authorizeHttpRequests(auth -> auth
 
+                        // ✅ ROOT allow (IMPORTANT)
+                        .requestMatchers("/").permitAll()
+
                         // ✅ Swagger allow
                         .requestMatchers(
                                 "/swagger-ui/**",
